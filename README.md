@@ -1,7 +1,7 @@
 # Competitive Programming Lectures
 
 ## Lecture 1 (Tree Algorithms) 
-  * discussion on basics of trees and algorithms related to diameter, center etc.
+  * Discussion on basics of trees and algorithms related to diameter, center etc.
  
   * [Notes](https://drive.google.com/file/d/11Yl6ixWEDdIoSYo7N_OupQdEGaHm0p8Y/view?usp=sharing)
 
