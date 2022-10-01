@@ -11,4 +11,4 @@ function<void(int, int)> dfs = [&](int node, int par) { // lamda function in CPP
 		}
 };
 
-dfs(1);
+dfs(1, 0);
