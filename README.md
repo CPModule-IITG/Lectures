@@ -11,8 +11,8 @@
     - [P3](https://codeforces.com/contest/1405/problem/D)
     - Will add more.
 
-## Lecture 1 (Möbius Function) 
-  * Discussion on Number Theory and Möbius Function.
+## Lecture 2 (Möbius Function) 
+  * Discussion on Number Theory, Multiplicative Functions and Möbius Function.
  
   * [Notes](https://drive.google.com/file/d/11Yl6ixWEDdIoSYo7N_OupQdEGaHm0p8Y/view?usp=sharing)
   * [CF Blog](https://codeforces.com/blog/entry/53925)
