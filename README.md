@@ -23,4 +23,5 @@
     - [P3](https://atcoder.jp/contests/agc038/tasks/agc038_c)
     - [P4](https://www.codechef.com/NOV15/problems/SMPLSUM)
     - [P5](https://codeforces.com/contest/1559/problem/E) (+DP)
+    - [P6](https://codeforces.com/contest/547/problem/C)
     - Will add more.
