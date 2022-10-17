@@ -14,7 +14,7 @@
 ## Lecture 2 (Möbius Function) 
   * Discussion on Number Theory, Multiplicative Functions and Möbius Function.
  
-  * [Notes](https://drive.google.com/file/d/11Yl6ixWEDdIoSYo7N_OupQdEGaHm0p8Y/view?usp=sharing)
+  * [Notes](https://drive.google.com/file/d/1nrOGG0WJ-0DAes_k9kek1MPP-CE6MAXr/view?usp=sharing)
   * [CF Blog](https://codeforces.com/blog/entry/53925)
   
   * Pset :
