@@ -16,7 +16,6 @@
    
    * [Notes]()
    * [CF Blog](https://codeforces.com/blog/entry/53925)
-   
    * Pset :
     - [P1*](https://codeforces.com/problemset/problem/1575/G)
     - [P2*](https://atcoder.jp/contests/abc230/tasks/abc230_g)
