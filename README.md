@@ -18,8 +18,8 @@
    * [CF Blog](https://codeforces.com/blog/entry/53925)
    
    * Pset :
-    - [P1](https://codeforces.com/problemset/problem/1575/G)  (IMP)
-    - [P2](https://atcoder.jp/contests/abc230/tasks/abc230_g) (IMP)
+    - [P1*](https://codeforces.com/problemset/problem/1575/G)
+    - [P2*](https://atcoder.jp/contests/abc230/tasks/abc230_g)
     - [P3](https://atcoder.jp/contests/agc038/tasks/agc038_c)
     - [P4](https://www.codechef.com/NOV15/problems/SMPLSUM)
     - Will add more.
