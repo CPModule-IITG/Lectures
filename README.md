@@ -16,7 +16,8 @@
    
    * [Notes]()
    * [CF Blog](https://codeforces.com/blog/entry/53925)
-   *Pset :
+   
+   * Pset :
    - [P1](https://www.codechef.com/NOV15/problems/SMPLSUM)
    - [P2**](https://codeforces.com/problemset/problem/1575/G)  (IMP)
    - [P3**](https://atcoder.jp/contests/abc230/tasks/abc230_g) (IMP)
