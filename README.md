@@ -10,3 +10,15 @@
     - [P2](https://codeforces.com/contest/1092/problem/E)
     - [P3](https://codeforces.com/contest/1405/problem/D)
     - Will add more.
+
+## Lecture 2 (Möbius Function) 
+   * Discussion on Number Theory concepts and Möbius Function.
+   
+   * [Notes]()
+   * [CF Blog](https://codeforces.com/blog/entry/53925)
+   *Pset :
+   - [P1](https://www.codechef.com/NOV15/problems/SMPLSUM)
+   - [P2**](https://codeforces.com/problemset/problem/1575/G)  (IMP)
+   - [P3**](https://atcoder.jp/contests/abc230/tasks/abc230_g) (IMP)
+   - [P4](https://atcoder.jp/contests/agc038/tasks/agc038_c)
+   
