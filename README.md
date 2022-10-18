@@ -17,7 +17,7 @@
   * [Notes](https://drive.google.com/file/d/1nrOGG0WJ-0DAes_k9kek1MPP-CE6MAXr/view?usp=sharing)
   * [CF Blog](https://codeforces.com/blog/entry/53925)
   * [David M Burton](https://jgcsr.org/wp-content/uploads/David_M._Burton_Elementary_Number_Theoryz-lib.org_.pdf)
-  * [Zuckerman](https://undergraduatemaths.files.wordpress.com/2017/12/ivan_niven_herbert_s-_zuckerman_hugh_l-_montgoman-introduction-to-the-theory-of-numbers.pdf)
+  * [Zuckerman, CH-4](https://undergraduatemaths.files.wordpress.com/2017/12/ivan_niven_herbert_s-_zuckerman_hugh_l-_montgoman-introduction-to-the-theory-of-numbers.pdf)
   
   * Pset :
     - [P1*](https://codeforces.com/problemset/problem/1575/G) (IMP)
