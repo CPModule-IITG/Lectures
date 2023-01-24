@@ -27,3 +27,12 @@
     - [P5](https://codeforces.com/contest/1559/problem/E) (+DP)
     - [P6](https://codeforces.com/contest/547/problem/C)
     - Will add more.
+
+
+## Lecture 3 (Intro to DP) 
+  * Discussion on Dynamic Programming Problems from Atcoder DP contest.
+ 
+  * [Notes](https://drive.google.com/file/d/1p5hzxPWwEtX3Invj17Tic1WY2-zcp2z-/view?usp=sharing)
+  
+  * Pset :
+    - [P](https://atcoder.jp/contests/dp)
