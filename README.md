@@ -35,4 +35,4 @@
   * [Notes](https://drive.google.com/file/d/1p5hzxPWwEtX3Invj17Tic1WY2-zcp2z-/view?usp=sharing)
   
   * Pset :
-    - [P](https://atcoder.jp/contests/dp)
+    - [AtCoder DP Contest](https://atcoder.jp/contests/dp)
